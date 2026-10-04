@@ -1,1 +1,1 @@
-# healtha-fitness-tracker
+# health-fitness-tracker
